@@ -19,8 +19,6 @@ For the specific expected format, see Vorlage.csv
 
 ## Usage
 
-Download the executable under dist/ (and the Excel/CSV Vorlage if needed)
-
 Run `deno run index.ts` and enter Input and Arbeitgeber Data.
 
 The created `output.csv` file is ready for upload.
